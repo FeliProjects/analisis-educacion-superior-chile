@@ -1,0 +1,397 @@
+,cat_periodo,area_carrera_generica,total_alumnos
+0,2007,"Agricultura, Silvicultura y Pesca",18011
+1,2007,Arquitectura y Construcción,37844
+2,2007,Artes,35068
+3,2007,Ciencias de la Vida,6115
+4,2007,Ciencias Físicas,9298
+5,2007,Ciencias Sociales y del Comportamiento,36438
+6,2007,Derecho,63470
+7,2007,Enseñanza Comercial y Administración,110132
+8,2007,Formación de Personal Docente y Ciencias de la Educación,116107
+9,2007,Humanidades,12306
+10,2007,Industria y Producción,7852
+11,2007,Informática,40614
+12,2007,Ingeniería y Profesiones Afines,91409
+13,2007,Matemáticas y Estadísticas,2481
+14,2007,Medicina,106107
+15,2007,Periodismo e Información,9245
+16,2007,Protección del Medio Ambiente,4194
+17,2007,Servicios de Seguridad,14381
+18,2007,Servicios de Transporte,1412
+19,2007,Servicios Personales,25995
+20,2007,Servicios Sociales,18298
+21,2007,Veterinaria,10061
+22,2008,"Agricultura, Silvicultura y Pesca",17865
+23,2008,Arquitectura y Construcción,39221
+24,2008,Artes,35273
+25,2008,Ciencias de la Vida,6569
+26,2008,Ciencias Físicas,10140
+27,2008,Ciencias Sociales y del Comportamiento,38202
+28,2008,Derecho,48883
+29,2008,Enseñanza Comercial y Administración,123371
+30,2008,Formación de Personal Docente y Ciencias de la Educación,120654
+31,2008,Humanidades,13272
+32,2008,Industria y Producción,8820
+33,2008,Informática,41577
+34,2008,Ingeniería y Profesiones Afines,99297
+35,2008,Matemáticas y Estadísticas,2367
+36,2008,Medicina,123662
+37,2008,Periodismo e Información,8439
+38,2008,Protección del Medio Ambiente,4244
+39,2008,Servicios de Seguridad,18952
+40,2008,Servicios de Transporte,1399
+41,2008,Servicios Personales,27675
+42,2008,Servicios Sociales,19470
+43,2008,Veterinaria,10445
+44,2009,"Agricultura, Silvicultura y Pesca",17958
+45,2009,Arquitectura y Construcción,41370
+46,2009,Artes,36674
+47,2009,Ciencias de la Vida,7051
+48,2009,Ciencias Físicas,10266
+49,2009,Ciencias Sociales y del Comportamiento,40187
+50,2009,Derecho,48154
+51,2009,Enseñanza Comercial y Administración,138265
+52,2009,Formación de Personal Docente y Ciencias de la Educación,126741
+53,2009,Humanidades,13413
+54,2009,Industria y Producción,9016
+55,2009,Informática,45051
+56,2009,Ingeniería y Profesiones Afines,106796
+57,2009,Matemáticas y Estadísticas,2299
+58,2009,Medicina,145254
+59,2009,Periodismo e Información,7815
+60,2009,Protección del Medio Ambiente,4490
+61,2009,Servicios de Seguridad,26508
+62,2009,Servicios de Transporte,1380
+63,2009,Servicios Personales,30530
+64,2009,Servicios Sociales,21924
+65,2009,Veterinaria,10577
+66,2010,"Agricultura, Silvicultura y Pesca",17919
+67,2010,Arquitectura y Construcción,44194
+68,2010,Artes,38969
+69,2010,Ciencias de la Vida,7358
+70,2010,Ciencias Físicas,10441
+71,2010,Ciencias Sociales y del Comportamiento,41313
+72,2010,Derecho,46978
+73,2010,Enseñanza Comercial y Administración,152806
+74,2010,Formación de Personal Docente y Ciencias de la Educación,137835
+75,2010,Humanidades,14213
+76,2010,Industria y Producción,9876
+77,2010,Informática,48959
+78,2010,Ingeniería y Profesiones Afines,117146
+79,2010,Matemáticas y Estadísticas,2317
+80,2010,Medicina,172030
+81,2010,Periodismo e Información,7725
+82,2010,Protección del Medio Ambiente,4600
+83,2010,Servicios de Seguridad,34871
+84,2010,Servicios de Transporte,1366
+85,2010,Servicios Personales,35137
+86,2010,Servicios Sociales,26021
+87,2010,Veterinaria,10546
+88,2011,"Agricultura, Silvicultura y Pesca",17143
+89,2011,Arquitectura y Construcción,46909
+90,2011,Artes,39797
+91,2011,Ciencias de la Vida,7261
+92,2011,Ciencias Físicas,11153
+93,2011,Ciencias Sociales y del Comportamiento,43034
+94,2011,Derecho,45365
+95,2011,Enseñanza Comercial y Administración,166925
+96,2011,Formación de Personal Docente y Ciencias de la Educación,150333
+97,2011,Humanidades,14492
+98,2011,Industria y Producción,11363
+99,2011,Informática,49924
+100,2011,Ingeniería y Profesiones Afines,126152
+101,2011,Matemáticas y Estadísticas,2367
+102,2011,Medicina,197230
+103,2011,Periodismo e Información,7649
+104,2011,Protección del Medio Ambiente,4778
+105,2011,Servicios de Seguridad,45199
+106,2011,Servicios de Transporte,1355
+107,2011,Servicios Personales,38085
+108,2011,Servicios Sociales,29188
+109,2011,Veterinaria,10641
+110,2012,"Agricultura, Silvicultura y Pesca",16568
+111,2012,Arquitectura y Construcción,50195
+112,2012,Artes,38662
+113,2012,Ciencias de la Vida,7229
+114,2012,Ciencias Físicas,11538
+115,2012,Ciencias Sociales y del Comportamiento,44452
+116,2012,Derecho,44392
+117,2012,Enseñanza Comercial y Administración,179272
+118,2012,Formación de Personal Docente y Ciencias de la Educación,155360
+119,2012,Humanidades,14055
+120,2012,Industria y Producción,13274
+121,2012,Informática,48400
+122,2012,Ingeniería y Profesiones Afines,131302
+123,2012,Matemáticas y Estadísticas,2190
+124,2012,Medicina,215287
+125,2012,Periodismo e Información,7374
+126,2012,Protección del Medio Ambiente,4669
+127,2012,Servicios de Seguridad,58334
+128,2012,Servicios de Transporte,1252
+129,2012,Servicios Personales,38930
+130,2012,Servicios Sociales,31008
+131,2012,Veterinaria,10490
+132,2013,"Agricultura, Silvicultura y Pesca",16401
+133,2013,Arquitectura y Construcción,55232
+134,2013,Artes,37960
+135,2013,Ciencias de la Vida,7209
+136,2013,Ciencias Físicas,13210
+137,2013,Ciencias Sociales y del Comportamiento,46437
+138,2013,Derecho,44114
+139,2013,Enseñanza Comercial y Administración,192495
+140,2013,Formación de Personal Docente y Ciencias de la Educación,153801
+141,2013,Humanidades,14088
+142,2013,Industria y Producción,19346
+143,2013,Informática,47804
+144,2013,Ingeniería y Profesiones Afines,140387
+145,2013,Matemáticas y Estadísticas,2300
+146,2013,Medicina,222695
+147,2013,Periodismo e Información,7468
+148,2013,Protección del Medio Ambiente,4836
+149,2013,Servicios de Seguridad,74994
+150,2013,Servicios de Transporte,1265
+151,2013,Servicios Personales,38503
+152,2013,Servicios Sociales,33387
+153,2013,Veterinaria,10439
+154,2014,"Agricultura, Silvicultura y Pesca",15726
+155,2014,Arquitectura y Construcción,58045
+156,2014,Artes,36581
+157,2014,Ciencias de la Vida,7318
+158,2014,Ciencias Físicas,14279
+159,2014,Ciencias Sociales y del Comportamiento,47037
+160,2014,Derecho,43681
+161,2014,Enseñanza Comercial y Administración,204548
+162,2014,Formación de Personal Docente y Ciencias de la Educación,147789
+163,2014,Humanidades,14000
+164,2014,Industria y Producción,23273
+165,2014,Informática,46724
+166,2014,Ingeniería y Profesiones Afines,147270
+167,2014,Matemáticas y Estadísticas,2231
+168,2014,Medicina,227407
+169,2014,Periodismo e Información,7451
+170,2014,Protección del Medio Ambiente,4879
+171,2014,Servicios de Seguridad,81092
+172,2014,Servicios de Transporte,1118
+173,2014,Servicios Personales,39286
+174,2014,Servicios Sociales,35054
+175,2014,Veterinaria,10341
+176,2015,"Agricultura, Silvicultura y Pesca",15575
+177,2015,Arquitectura y Construcción,61578
+178,2015,Artes,35811
+179,2015,Ciencias de la Vida,7312
+180,2015,Ciencias Físicas,14821
+181,2015,Ciencias Sociales y del Comportamiento,47806
+182,2015,Derecho,43726
+183,2015,Enseñanza Comercial y Administración,213860
+184,2015,Formación de Personal Docente y Ciencias de la Educación,140477
+185,2015,Humanidades,13521
+186,2015,Industria y Producción,26073
+187,2015,Informática,46028
+188,2015,Ingeniería y Profesiones Afines,153913
+189,2015,Matemáticas y Estadísticas,2278
+190,2015,Medicina,231598
+191,2015,Periodismo e Información,7633
+192,2015,Protección del Medio Ambiente,5231
+193,2015,Servicios de Seguridad,76715
+194,2015,Servicios de Transporte,1167
+195,2015,Servicios Personales,41132
+196,2015,Servicios Sociales,36326
+197,2015,Veterinaria,10462
+198,2016,"Agricultura, Silvicultura y Pesca",16094
+199,2016,Arquitectura y Construcción,64112
+200,2016,Artes,35625
+201,2016,Ciencias de la Vida,7106
+202,2016,Ciencias Físicas,15269
+203,2016,Ciencias Sociales y del Comportamiento,50116
+204,2016,Derecho,44824
+205,2016,Enseñanza Comercial y Administración,224513
+206,2016,Formación de Personal Docente y Ciencias de la Educación,139890
+207,2016,Humanidades,13423
+208,2016,Industria y Producción,23862
+209,2016,Informática,46013
+210,2016,Ingeniería y Profesiones Afines,159603
+211,2016,Matemáticas y Estadísticas,2409
+212,2016,Medicina,234982
+213,2016,Periodismo e Información,8198
+214,2016,Protección del Medio Ambiente,5580
+215,2016,Servicios de Seguridad,62398
+216,2016,Servicios de Transporte,1187
+217,2016,Servicios Personales,43487
+218,2016,Servicios Sociales,37582
+219,2016,Veterinaria,10905
+220,2017,"Agricultura, Silvicultura y Pesca",16866
+221,2017,Arquitectura y Construcción,66208
+222,2017,Artes,35768
+223,2017,Ciencias de la Vida,7129
+224,2017,Ciencias Físicas,15088
+225,2017,Ciencias Sociales y del Comportamiento,50919
+226,2017,Derecho,45858
+227,2017,Enseñanza Comercial y Administración,229764
+228,2017,Formación de Personal Docente y Ciencias de la Educación,140756
+229,2017,Humanidades,13282
+230,2017,Industria y Producción,21140
+231,2017,Informática,45816
+232,2017,Ingeniería y Profesiones Afines,165542
+233,2017,Matemáticas y Estadísticas,2215
+234,2017,Medicina,235844
+235,2017,Periodismo e Información,8438
+236,2017,Protección del Medio Ambiente,5912
+237,2017,Servicios de Seguridad,44121
+238,2017,Servicios de Transporte,1273
+239,2017,Servicios Personales,45800
+240,2017,Servicios Sociales,39178
+241,2017,Veterinaria,11376
+242,2018,"Agricultura, Silvicultura y Pesca",17708
+243,2018,Arquitectura y Construcción,66425
+244,2018,Artes,36999
+245,2018,Ciencias de la Vida,7390
+246,2018,Ciencias Físicas,15033
+247,2018,Ciencias Sociales y del Comportamiento,52938
+248,2018,Derecho,46886
+249,2018,Enseñanza Comercial y Administración,235788
+250,2018,Formación de Personal Docente y Ciencias de la Educación,143063
+251,2018,Humanidades,13517
+252,2018,Industria y Producción,19625
+253,2018,Informática,46674
+254,2018,Ingeniería y Profesiones Afines,171405
+255,2018,Matemáticas y Estadísticas,2486
+256,2018,Medicina,238047
+257,2018,Periodismo e Información,8527
+258,2018,Protección del Medio Ambiente,6245
+259,2018,Servicios de Seguridad,31140
+260,2018,Servicios de Transporte,1218
+261,2018,Servicios Personales,48708
+262,2018,Servicios Sociales,40185
+263,2018,Veterinaria,12327
+264,2019,"Agricultura, Silvicultura y Pesca",18486
+265,2019,Arquitectura y Construcción,65431
+266,2019,Artes,37833
+267,2019,Ciencias de la Vida,7722
+268,2019,Ciencias Físicas,14967
+269,2019,Ciencias Sociales y del Comportamiento,55189
+270,2019,Derecho,48802
+271,2019,Enseñanza Comercial y Administración,237805
+272,2019,Formación de Personal Docente y Ciencias de la Educación,142510
+273,2019,Humanidades,13348
+274,2019,Industria y Producción,18347
+275,2019,Informática,48700
+276,2019,Ingeniería y Profesiones Afines,175779
+277,2019,Matemáticas y Estadísticas,2788
+278,2019,Medicina,235252
+279,2019,Periodismo e Información,8818
+280,2019,Protección del Medio Ambiente,6476
+281,2019,Servicios de Seguridad,22290
+282,2019,Servicios de Transporte,1222
+283,2019,Servicios Personales,51507
+284,2019,Servicios Sociales,41351
+285,2019,Veterinaria,13860
+286,2020,"Agricultura, Silvicultura y Pesca",18228
+287,2020,Arquitectura y Construcción,60551
+288,2020,Artes,36961
+289,2020,Ciencias de la Vida,7860
+290,2020,Ciencias Físicas,14734
+291,2020,Ciencias Sociales y del Comportamiento,54755
+292,2020,Derecho,48961
+293,2020,Enseñanza Comercial y Administración,224962
+294,2020,Formación de Personal Docente y Ciencias de la Educación,130875
+295,2020,Humanidades,12100
+296,2020,Industria y Producción,16565
+297,2020,Informática,49114
+298,2020,Ingeniería y Profesiones Afines,171551
+299,2020,Matemáticas y Estadísticas,3181
+300,2020,Medicina,231293
+301,2020,Periodismo e Información,8312
+302,2020,Protección del Medio Ambiente,6522
+303,2020,Servicios de Seguridad,15725
+304,2020,Servicios de Transporte,1249
+305,2020,Servicios Personales,50038
+306,2020,Servicios Sociales,42119
+307,2020,Veterinaria,15242
+308,2021,"Agricultura, Silvicultura y Pesca",18635
+309,2021,Arquitectura y Construcción,61541
+310,2021,Artes,37967
+311,2021,Ciencias de la Vida,8824
+312,2021,Ciencias Físicas,15253
+313,2021,Ciencias Sociales y del Comportamiento,61011
+314,2021,Derecho,55216
+315,2021,Enseñanza Comercial y Administración,237694
+316,2021,Formación de Personal Docente y Ciencias de la Educación,128646
+317,2021,Humanidades,12905
+318,2021,Industria y Producción,17455
+319,2021,Informática,54681
+320,2021,Ingeniería y Profesiones Afines,175896
+321,2021,Matemáticas y Estadísticas,4166
+322,2021,Medicina,256323
+323,2021,Periodismo e Información,8895
+324,2021,Protección del Medio Ambiente,7186
+325,2021,Servicios de Seguridad,16378
+326,2021,Servicios de Transporte,1390
+327,2021,Servicios Personales,48903
+328,2021,Servicios Sociales,47681
+329,2021,Veterinaria,18055
+330,2022,"Agricultura, Silvicultura y Pesca",18145
+331,2022,Arquitectura y Construcción,60299
+332,2022,Artes,40447
+333,2022,Ciencias de la Vida,9205
+334,2022,Ciencias Físicas,14706
+335,2022,Ciencias Sociales y del Comportamiento,63383
+336,2022,Derecho,55219
+337,2022,Enseñanza Comercial y Administración,238623
+338,2022,Formación de Personal Docente y Ciencias de la Educación,120075
+339,2022,Humanidades,13036
+340,2022,Industria y Producción,17589
+341,2022,Informática,59235
+342,2022,Ingeniería y Profesiones Afines,179649
+343,2022,Matemáticas y Estadísticas,4615
+344,2022,Medicina,257591
+345,2022,Periodismo e Información,8615
+346,2022,Protección del Medio Ambiente,7043
+347,2022,Servicios de Seguridad,16914
+348,2022,Servicios de Transporte,1510
+349,2022,Servicios Personales,50150
+350,2022,Servicios Sociales,48157
+351,2022,Veterinaria,19941
+352,2023,"Agricultura, Silvicultura y Pesca",18262
+353,2023,Arquitectura y Construcción,59301
+354,2023,Artes,43862
+355,2023,Ciencias de la Vida,9577
+356,2023,Ciencias Físicas,14872
+357,2023,Ciencias Sociales y del Comportamiento,67210
+358,2023,Derecho,56278
+359,2023,Enseñanza Comercial y Administración,240488
+360,2023,Formación de Personal Docente y Ciencias de la Educación,119070
+361,2023,Humanidades,13361
+362,2023,Industria y Producción,19132
+363,2023,Informática,66556
+364,2023,Ingeniería y Profesiones Afines,188381
+365,2023,Matemáticas y Estadísticas,4551
+366,2023,Medicina,263111
+367,2023,Periodismo e Información,8878
+368,2023,Protección del Medio Ambiente,7047
+369,2023,Servicios de Seguridad,17733
+370,2023,Servicios de Transporte,1596
+371,2023,Servicios Personales,52062
+372,2023,Servicios Sociales,47213
+373,2023,Veterinaria,22905
+374,2024,"Agricultura, Silvicultura y Pesca",18002
+375,2024,Arquitectura y Construcción,57878
+376,2024,Artes,46336
+377,2024,Ciencias de la Vida,9875
+378,2024,Ciencias Físicas,14696
+379,2024,Ciencias Sociales y del Comportamiento,71738
+380,2024,Derecho,58519
+381,2024,Enseñanza Comercial y Administración,250743
+382,2024,Formación de Personal Docente y Ciencias de la Educación,120302
+383,2024,Humanidades,13379
+384,2024,Industria y Producción,20766
+385,2024,Informática,74564
+386,2024,Ingeniería y Profesiones Afines,198247
+387,2024,Matemáticas y Estadísticas,5643
+388,2024,Medicina,265785
+389,2024,Periodismo e Información,8865
+390,2024,Protección del Medio Ambiente,7013
+391,2024,Servicios de Seguridad,18474
+392,2024,Servicios de Transporte,1933
+393,2024,Servicios Personales,52908
+394,2024,Servicios Sociales,45108
+395,2024,Veterinaria,25311

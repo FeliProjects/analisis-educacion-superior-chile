@@ -1,0 +1,287 @@
+,cat_periodo,tipo_inst_1,tipo_inst_2,nivel_carrera_2,total_alumnos
+0,2007,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,86838
+1,2007,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,99345
+2,2007,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,56779
+3,2007,Universidades,Universidades CRUCH,Carreras Profesionales,255071
+4,2007,Universidades,Universidades CRUCH,Carreras Técnicas,10614
+5,2007,Universidades,Universidades CRUCH,Doctorado,2822
+6,2007,Universidades,Universidades CRUCH,Magister,12420
+7,2007,Universidades,Universidades CRUCH,Postítulo,5057
+8,2007,Universidades,Universidades Privadas,Carreras Profesionales,228120
+9,2007,Universidades,Universidades Privadas,Carreras Técnicas,11577
+10,2007,Universidades,Universidades Privadas,Doctorado,207
+11,2007,Universidades,Universidades Privadas,Magister,5244
+12,2007,Universidades,Universidades Privadas,Postítulo,2744
+13,2008,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,95891
+14,2008,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,12
+15,2008,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,105103
+16,2008,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,57745
+17,2008,Institutos Profesionales,Institutos Profesionales,Postítulo,22
+18,2008,Universidades,Universidades CRUCH,Carreras Profesionales,259865
+19,2008,Universidades,Universidades CRUCH,Carreras Técnicas,11231
+20,2008,Universidades,Universidades CRUCH,Doctorado,3063
+21,2008,Universidades,Universidades CRUCH,Magister,14930
+22,2008,Universidades,Universidades CRUCH,Postítulo,6069
+23,2008,Universidades,Universidades Privadas,Carreras Profesionales,242465
+24,2008,Universidades,Universidades Privadas,Carreras Técnicas,11049
+25,2008,Universidades,Universidades Privadas,Doctorado,566
+26,2008,Universidades,Universidades Privadas,Magister,7515
+27,2008,Universidades,Universidades Privadas,Postítulo,4271
+28,2009,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,110007
+29,2009,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,14
+30,2009,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,117809
+31,2009,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,71788
+32,2009,Institutos Profesionales,Institutos Profesionales,Postítulo,25
+33,2009,Universidades,Universidades CRUCH,Carreras Profesionales,263717
+34,2009,Universidades,Universidades CRUCH,Carreras Técnicas,13210
+35,2009,Universidades,Universidades CRUCH,Doctorado,3128
+36,2009,Universidades,Universidades CRUCH,Magister,15769
+37,2009,Universidades,Universidades CRUCH,Postítulo,7303
+38,2009,Universidades,Universidades Privadas,Carreras Profesionales,261595
+39,2009,Universidades,Universidades Privadas,Carreras Técnicas,11214
+40,2009,Universidades,Universidades Privadas,Doctorado,610
+41,2009,Universidades,Universidades Privadas,Magister,8850
+42,2009,Universidades,Universidades Privadas,Postítulo,6680
+43,2010,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,128508
+44,2010,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,133666
+45,2010,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,90635
+46,2010,Institutos Profesionales,Institutos Profesionales,Postítulo,38
+47,2010,Universidades,Universidades CRUCH,Carreras Profesionales,268279
+48,2010,Universidades,Universidades CRUCH,Carreras Técnicas,13529
+49,2010,Universidades,Universidades CRUCH,Doctorado,3554
+50,2010,Universidades,Universidades CRUCH,Magister,17959
+51,2010,Universidades,Universidades CRUCH,Postítulo,7569
+52,2010,Universidades,Universidades Privadas,Carreras Profesionales,288410
+53,2010,Universidades,Universidades Privadas,Carreras Técnicas,12366
+54,2010,Universidades,Universidades Privadas,Doctorado,501
+55,2010,Universidades,Universidades Privadas,Magister,11274
+56,2010,Universidades,Universidades Privadas,Postítulo,6332
+57,2011,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,138488
+58,2011,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,36
+59,2011,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,147957
+60,2011,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,112735
+61,2011,Institutos Profesionales,Institutos Profesionales,Postítulo,7074
+62,2011,Universidades,Universidades CRUCH,Carreras Profesionales,268973
+63,2011,Universidades,Universidades CRUCH,Carreras Técnicas,13724
+64,2011,Universidades,Universidades CRUCH,Doctorado,3715
+65,2011,Universidades,Universidades CRUCH,Magister,16317
+66,2011,Universidades,Universidades CRUCH,Postítulo,6604
+67,2011,Universidades,Universidades Privadas,Carreras Profesionales,316382
+68,2011,Universidades,Universidades Privadas,Carreras Técnicas,14298
+69,2011,Universidades,Universidades Privadas,Doctorado,337
+70,2011,Universidades,Universidades Privadas,Magister,13935
+71,2011,Universidades,Universidades Privadas,Postítulo,5768
+72,2012,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,139962
+73,2012,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,158334
+74,2012,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,135185
+75,2012,Institutos Profesionales,Institutos Profesionales,Postítulo,7637
+76,2012,Universidades,Universidades CRUCH,Carreras Profesionales,267730
+77,2012,Universidades,Universidades CRUCH,Carreras Técnicas,15261
+78,2012,Universidades,Universidades CRUCH,Doctorado,4008
+79,2012,Universidades,Universidades CRUCH,Magister,19185
+80,2012,Universidades,Universidades CRUCH,Postítulo,5591
+81,2012,Universidades,Universidades Privadas,Carreras Profesionales,332060
+82,2012,Universidades,Universidades Privadas,Carreras Técnicas,13942
+83,2012,Universidades,Universidades Privadas,Doctorado,463
+84,2012,Universidades,Universidades Privadas,Magister,17421
+85,2012,Universidades,Universidades Privadas,Postítulo,7454
+86,2013,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,144365
+87,2013,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,18
+88,2013,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,173742
+89,2013,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,150837
+90,2013,Institutos Profesionales,Institutos Profesionales,Postítulo,7568
+91,2013,Universidades,Universidades CRUCH,Carreras Profesionales,277227
+92,2013,Universidades,Universidades CRUCH,Carreras Técnicas,18506
+93,2013,Universidades,Universidades CRUCH,Doctorado,4103
+94,2013,Universidades,Universidades CRUCH,Magister,20079
+95,2013,Universidades,Universidades CRUCH,Postítulo,6125
+96,2013,Universidades,Universidades Privadas,Carreras Profesionales,335835
+97,2013,Universidades,Universidades Privadas,Carreras Técnicas,13765
+98,2013,Universidades,Universidades Privadas,Doctorado,550
+99,2013,Universidades,Universidades Privadas,Magister,21994
+100,2013,Universidades,Universidades Privadas,Postítulo,9657
+101,2014,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,148010
+102,2014,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,2
+103,2014,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,181263
+104,2014,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,169741
+105,2014,Institutos Profesionales,Institutos Profesionales,Postítulo,6391
+106,2014,Universidades,Universidades CRUCH,Carreras Profesionales,281508
+107,2014,Universidades,Universidades CRUCH,Carreras Técnicas,19887
+108,2014,Universidades,Universidades CRUCH,Doctorado,4350
+109,2014,Universidades,Universidades CRUCH,Magister,20844
+110,2014,Universidades,Universidades CRUCH,Postítulo,6960
+111,2014,Universidades,Universidades Privadas,Carreras Profesionales,332745
+112,2014,Universidades,Universidades Privadas,Carreras Técnicas,11227
+113,2014,Universidades,Universidades Privadas,Doctorado,575
+114,2014,Universidades,Universidades Privadas,Magister,21037
+115,2014,Universidades,Universidades Privadas,Postítulo,10590
+116,2015,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,146540
+117,2015,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,6
+118,2015,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,187018
+119,2015,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,186153
+120,2015,Institutos Profesionales,Institutos Profesionales,Postítulo,5631
+121,2015,Universidades,Universidades CRUCH,Carreras Profesionales,284433
+122,2015,Universidades,Universidades CRUCH,Carreras Técnicas,20515
+123,2015,Universidades,Universidades CRUCH,Doctorado,4565
+124,2015,Universidades,Universidades CRUCH,Magister,19813
+125,2015,Universidades,Universidades CRUCH,Postítulo,7381
+126,2015,Universidades,Universidades Privadas,Carreras Profesionales,332579
+127,2015,Universidades,Universidades Privadas,Carreras Técnicas,8668
+128,2015,Universidades,Universidades Privadas,Doctorado,607
+129,2015,Universidades,Universidades Privadas,Magister,20131
+130,2015,Universidades,Universidades Privadas,Postítulo,9003
+131,2016,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,141711
+132,2016,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,9
+133,2016,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,189427
+134,2016,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,191561
+135,2016,Institutos Profesionales,Institutos Profesionales,Postítulo,3679
+136,2016,Universidades,Universidades CRUCH,Carreras Profesionales,291039
+137,2016,Universidades,Universidades CRUCH,Carreras Técnicas,21816
+138,2016,Universidades,Universidades CRUCH,Doctorado,4936
+139,2016,Universidades,Universidades CRUCH,Magister,20703
+140,2016,Universidades,Universidades CRUCH,Postítulo,7370
+141,2016,Universidades,Universidades Privadas,Carreras Profesionales,336300
+142,2016,Universidades,Universidades Privadas,Carreras Técnicas,6626
+143,2016,Universidades,Universidades Privadas,Doctorado,609
+144,2016,Universidades,Universidades Privadas,Magister,21336
+145,2016,Universidades,Universidades Privadas,Postítulo,10056
+146,2017,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,136777
+147,2017,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,12
+148,2017,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,188020
+149,2017,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,186689
+150,2017,Institutos Profesionales,Institutos Profesionales,Postítulo,2644
+151,2017,Universidades,Universidades CRUCH,Carreras Profesionales,296681
+152,2017,Universidades,Universidades CRUCH,Carreras Técnicas,22289
+153,2017,Universidades,Universidades CRUCH,Doctorado,4897
+154,2017,Universidades,Universidades CRUCH,Magister,19365
+155,2017,Universidades,Universidades CRUCH,Postítulo,7365
+156,2017,Universidades,Universidades Privadas,Carreras Profesionales,339322
+157,2017,Universidades,Universidades Privadas,Carreras Técnicas,7514
+158,2017,Universidades,Universidades Privadas,Doctorado,639
+159,2017,Universidades,Universidades Privadas,Magister,23797
+160,2017,Universidades,Universidades Privadas,Postítulo,12282
+161,2018,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,136728
+162,2018,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,11
+163,2018,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,189959
+164,2018,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,183145
+165,2018,Institutos Profesionales,Institutos Profesionales,Postítulo,1793
+166,2018,Universidades,Universidades CRUCH,Carreras Profesionales,307802
+167,2018,Universidades,Universidades CRUCH,Carreras Técnicas,22190
+168,2018,Universidades,Universidades CRUCH,Doctorado,5183
+169,2018,Universidades,Universidades CRUCH,Magister,18235
+170,2018,Universidades,Universidades CRUCH,Postítulo,13135
+171,2018,Universidades,Universidades Privadas,Carreras Profesionales,340989
+172,2018,Universidades,Universidades Privadas,Carreras Técnicas,7232
+173,2018,Universidades,Universidades Privadas,Doctorado,756
+174,2018,Universidades,Universidades Privadas,Magister,22701
+175,2018,Universidades,Universidades Privadas,Postítulo,12475
+176,2019,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,137919
+177,2019,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,9
+178,2019,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,199702
+179,2019,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,179754
+180,2019,Institutos Profesionales,Institutos Profesionales,Postítulo,1956
+181,2019,Universidades,Universidades (* Carrera en Convenio),Carreras Profesionales,2145
+182,2019,Universidades,Universidades (* Carrera en Convenio),Carreras Técnicas,4
+183,2019,Universidades,Universidades CRUCH,Carreras Profesionales,337513
+184,2019,Universidades,Universidades CRUCH,Carreras Técnicas,20807
+185,2019,Universidades,Universidades CRUCH,Doctorado,5446
+186,2019,Universidades,Universidades CRUCH,Magister,20572
+187,2019,Universidades,Universidades CRUCH,Postítulo,12253
+188,2019,Universidades,Universidades Privadas,Carreras Profesionales,310889
+189,2019,Universidades,Universidades Privadas,Carreras Técnicas,5726
+190,2019,Universidades,Universidades Privadas,Doctorado,600
+191,2019,Universidades,Universidades Privadas,Magister,21773
+192,2019,Universidades,Universidades Privadas,Postítulo,11415
+193,2020,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,130338
+194,2020,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,8
+195,2020,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,200445
+196,2020,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,160942
+197,2020,Institutos Profesionales,Institutos Profesionales,Postítulo,643
+198,2020,Universidades,Universidades (* Carrera en Convenio),Carreras Profesionales,2266
+199,2020,Universidades,Universidades (* Carrera en Convenio),Carreras Técnicas,69
+200,2020,Universidades,Universidades (* Carrera en Convenio),Magister,22
+201,2020,Universidades,Universidades (* Carrera en Convenio),Postítulo,2
+202,2020,Universidades,Universidades CRUCH,Carreras Profesionales,346643
+203,2020,Universidades,Universidades CRUCH,Carreras Técnicas,19129
+204,2020,Universidades,Universidades CRUCH,Doctorado,5486
+205,2020,Universidades,Universidades CRUCH,Magister,18972
+206,2020,Universidades,Universidades CRUCH,Postítulo,14390
+207,2020,Universidades,Universidades Privadas,Carreras Profesionales,286739
+208,2020,Universidades,Universidades Privadas,Carreras Técnicas,5263
+209,2020,Universidades,Universidades Privadas,Doctorado,538
+210,2020,Universidades,Universidades Privadas,Magister,20465
+211,2020,Universidades,Universidades Privadas,Postítulo,8538
+212,2021,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,134463
+213,2021,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,14
+214,2021,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,218302
+215,2021,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,160236
+216,2021,Institutos Profesionales,Institutos Profesionales,Postítulo,1300
+217,2021,Universidades,Universidades (* Carrera en Convenio),Carreras Profesionales,1565
+218,2021,Universidades,Universidades (* Carrera en Convenio),Carreras Técnicas,29
+219,2021,Universidades,Universidades (* Carrera en Convenio),Doctorado,117
+220,2021,Universidades,Universidades (* Carrera en Convenio),Magister,170
+221,2021,Universidades,Universidades CRUCH,Carreras Profesionales,368107
+222,2021,Universidades,Universidades CRUCH,Carreras Técnicas,18022
+223,2021,Universidades,Universidades CRUCH,Doctorado,5933
+224,2021,Universidades,Universidades CRUCH,Magister,21701
+225,2021,Universidades,Universidades CRUCH,Postítulo,23279
+226,2021,Universidades,Universidades Privadas,Carreras Profesionales,298716
+227,2021,Universidades,Universidades Privadas,Carreras Técnicas,4936
+228,2021,Universidades,Universidades Privadas,Doctorado,679
+229,2021,Universidades,Universidades Privadas,Magister,24647
+230,2021,Universidades,Universidades Privadas,Postítulo,12485
+231,2022,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,131747
+232,2022,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,7
+233,2022,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,231631
+234,2022,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,165198
+235,2022,Institutos Profesionales,Institutos Profesionales,Postítulo,876
+236,2022,Universidades,Universidades (* Carrera en Convenio),Carreras Profesionales,880
+237,2022,Universidades,Universidades (* Carrera en Convenio),Carreras Técnicas,14
+238,2022,Universidades,Universidades (* Carrera en Convenio),Doctorado,114
+239,2022,Universidades,Universidades (* Carrera en Convenio),Magister,148
+240,2022,Universidades,Universidades CRUCH,Carreras Profesionales,365500
+241,2022,Universidades,Universidades CRUCH,Carreras Técnicas,16558
+242,2022,Universidades,Universidades CRUCH,Doctorado,6115
+243,2022,Universidades,Universidades CRUCH,Magister,21950
+244,2022,Universidades,Universidades CRUCH,Postítulo,21338
+245,2022,Universidades,Universidades Privadas,Carreras Profesionales,297665
+246,2022,Universidades,Universidades Privadas,Carreras Técnicas,4818
+247,2022,Universidades,Universidades Privadas,Doctorado,646
+248,2022,Universidades,Universidades Privadas,Magister,25612
+249,2022,Universidades,Universidades Privadas,Postítulo,13330
+250,2023,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,136743
+251,2023,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,9
+252,2023,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,250422
+253,2023,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,168591
+254,2023,Institutos Profesionales,Institutos Profesionales,Postítulo,418
+255,2023,Universidades,Universidades (* Carrera en Convenio),Carreras Profesionales,326
+256,2023,Universidades,Universidades (* Carrera en Convenio),Doctorado,73
+257,2023,Universidades,Universidades (* Carrera en Convenio),Magister,72
+258,2023,Universidades,Universidades CRUCH,Carreras Profesionales,369141
+259,2023,Universidades,Universidades CRUCH,Carreras Técnicas,16082
+260,2023,Universidades,Universidades CRUCH,Doctorado,6273
+261,2023,Universidades,Universidades CRUCH,Magister,22081
+262,2023,Universidades,Universidades CRUCH,Postítulo,24820
+263,2023,Universidades,Universidades Privadas,Carreras Profesionales,303435
+264,2023,Universidades,Universidades Privadas,Carreras Técnicas,4677
+265,2023,Universidades,Universidades Privadas,Doctorado,756
+266,2023,Universidades,Universidades Privadas,Magister,23048
+267,2023,Universidades,Universidades Privadas,Postítulo,14479
+268,2024,Centros de Formación Técnica,Centros de Formación Técnica,Carreras Técnicas,145299
+269,2024,Centros de Formación Técnica,Centros de Formación Técnica,Postítulo,5
+270,2024,Institutos Profesionales,Institutos Profesionales,Carreras Profesionales,269901
+271,2024,Institutos Profesionales,Institutos Profesionales,Carreras Técnicas,156369
+272,2024,Institutos Profesionales,Institutos Profesionales,Postítulo,261
+273,2024,Universidades,Universidades (* Carrera en Convenio),Carreras Profesionales,59
+274,2024,Universidades,Universidades (* Carrera en Convenio),Doctorado,29
+275,2024,Universidades,Universidades (* Carrera en Convenio),Magister,27
+276,2024,Universidades,Universidades CRUCH,Carreras Profesionales,373241
+277,2024,Universidades,Universidades CRUCH,Carreras Técnicas,15953
+278,2024,Universidades,Universidades CRUCH,Doctorado,6566
+279,2024,Universidades,Universidades CRUCH,Magister,22501
+280,2024,Universidades,Universidades CRUCH,Postítulo,39334
+281,2024,Universidades,Universidades Privadas,Carreras Profesionales,312460
+282,2024,Universidades,Universidades Privadas,Carreras Técnicas,4317
+283,2024,Universidades,Universidades Privadas,Doctorado,877
+284,2024,Universidades,Universidades Privadas,Magister,22059
+285,2024,Universidades,Universidades Privadas,Postítulo,16827
