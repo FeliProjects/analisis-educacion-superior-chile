@@ -4,6 +4,16 @@
 
 > **Proyecto de Capstone** realizado para la certificación [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
 
+Estructura del informe:
+```
+📁 Proyecto: Análisis de Tendencias en la Educación Superior Chilena (2007-2024)
+├── 1. Resumen Ejecutivo
+├── 2. Hallazgos Clave y Visualizaciones
+├── 3. Recomendaciones Estratégicas
+├── 4. Metodología Técnica y Arquitectura de Datos
+└── 5. Repositorio de Código
+```
+
 ## 📌 1. Resumen Ejecutivo
 
 ### 🎯 Objetivo del Proyecto
@@ -273,7 +283,7 @@ Dado el volumen del dataset (~12 GB distribuido en 18 archivos CSV con ~20 millo
     df.to_csv("muestra_estudiantes_dataset.csv")
     ```
 
-## 📁 5. Repositorio de Código y SQL Scripts
+## 📁 5. Repositorio de Código
 
 ### 5.1. Estructura del Repositorio
 
